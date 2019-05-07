@@ -1,0 +1,1 @@
+Architectures and testing created without use of ML libraries, only Numpy and CuPy for optimization.
